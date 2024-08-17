@@ -1,1 +1,2 @@
-# virtual-painter
+# Instructions to run the code
+
